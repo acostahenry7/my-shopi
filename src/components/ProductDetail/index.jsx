@@ -15,6 +15,7 @@ function ProductDetail({data}) {
               <AiOutlineClose className='cursor-pointer' onClick={() => closeProductDetail()}/>
             </div>
         </div>
+        <span>hola</span>
         <div>
           <figure className='px-6 h-60'>
             <img className='w-full h-full rounded-lg object-cover' 
